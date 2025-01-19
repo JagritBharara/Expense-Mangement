@@ -90,3 +90,11 @@ The controllers for the above routes are located in the `controllers` directory:
 
 This README provides a starting point for understanding and utilizing the routes in the Expense Tracker project. For further development, consult the project documentation or codebase.
 
+## Images
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/f475b762-113f-46ac-9f8e-d04ba6930394" />
+
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/62794e18-a097-40e1-aa0a-eda0bd86265a" />
+
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/56b45332-f93e-4b0a-99d4-4b5f2482990d" />
+
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/a9028d2f-481f-48a8-8e5a-60a81637ec76" />
